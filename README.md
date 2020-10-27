@@ -4,6 +4,11 @@
 
 ### Three Observable Trends
 
+1) The linear regressions for max temp vs latitude show a different relationship depending on the hemisphere. In the northern hemisphere, there is a strong negative correlation (r-value = -0.86) between temperature and latitude, where as the latitude increases the max temperature decreases. In the southern hemisphere, the opposite relationship is observed. There is a strong positive correlation (r-value = 0.75) in the southern hemisphere, where as latitude increases max temperature increases. This shows that weather relationships can be dependent on the location you are looking at. 
+
+2)  The linear regression for humidity % vs latitude shows that in the northern hemisphere, a weak positive correlation (r value = 0.306) exists where as latitude increases, humidity % increases. For the southern hemisphere, no relationship exists between latitude and humidity %. This shows that relationships between certain weather elements (in this case, humidity and latitude) may only exist in certain areas. This analysis showed that humidity and latititude do have a relationship/correlate in the northern hemisphere, but in the southern hemisphere this relationship does not exist. 
+
+3)  By comparing the scatter plots with all the city data to the plots when we split the cities by nothern/southern hemisphere, we can see that certain relationships will not be picked up when we look at all of the city latitudes together. Unique relationships exist in each hemisphere, and this shows the value in conducting further, more detailed analyses because these relationships would not have been uncovered if we only examined the latitude data as a whole. 
 
 ## VacationPy
 
