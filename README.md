@@ -58,47 +58,55 @@ The above plot shows city latitudes vs wind speed (in mph) for 10/20/20. The abo
 ## Northern vs. Southern Hemisphere- Linear Regressions
 
 ### **City Latitude vs. Max Temperature**
-### Northern Hemisphere
+#### Northern Hemisphere
 
 ![northlat_temp](https://user-images.githubusercontent.com/69160361/103430849-9788f180-4b85-11eb-93de-429c563378c5.png)
+
 The r-value is: -0.86
 
-### Southern Hemisphere
+#### Southern Hemisphere
 
 ![southlat_temp](https://user-images.githubusercontent.com/69160361/103430863-a2438680-4b85-11eb-80dd-4cb08421b7da.png)
+
 The r-value is: 0.76
 
 ### **City Latitude vs. Humidity**
-### Northern Hemisphere
+#### Northern Hemisphere
 
 ![northlat_humid](https://user-images.githubusercontent.com/69160361/103430869-aec7df00-4b85-11eb-8f80-5773591d134d.png)
+
 The r-value is: 0.31
 
-### Southern Hemisphere
+#### Southern Hemisphere
 
 ![southlat_humid](https://user-images.githubusercontent.com/69160361/103430874-b25b6600-4b85-11eb-8d08-316042aa527e.png)
+
 The r-value is: 0.11
 
 ### **City Latitude vs. Cloudiness**
-### Northern Hemisphere
+#### Northern Hemisphere
 
 ![northlat_cloud](https://user-images.githubusercontent.com/69160361/103430891-c0a98200-4b85-11eb-9173-b445d6ffa507.png)
+
 The r-value is: 0.24
 
-### Southern Hemisphere
+#### Southern Hemisphere
 
 ![southlat_cloud](https://user-images.githubusercontent.com/69160361/103430892-c3a47280-4b85-11eb-9739-30502d5e53d4.png)
+
 The r-value is: 0.20
 
 ### **City Latitude vs. Wind Speed**
-### Northern Hemisphere
+#### Northern Hemisphere
 
 ![northlat_wind](https://user-images.githubusercontent.com/69160361/103430897-c7d09000-4b85-11eb-8989-0fbb9e210a2f.png)
+
 The r-value is: 0.01
 
-### Southern Hemisphere
+#### Southern Hemisphere
 
 ![southlat_wind](https://user-images.githubusercontent.com/69160361/103430900-cacb8080-4b85-11eb-8ac2-c17a081bd16a.png)
+
 The r-value is: -0.15
 
 ### **Observable Trends**
